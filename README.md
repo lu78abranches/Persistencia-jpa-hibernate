@@ -11,7 +11,7 @@
 | :placard: Persistencia-jpa-hibernate  |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Persistencia-jpa-hibernate**
-| :label: Tecnologias | Java - Hibernate - JPA - Oracle SQL Developer
+| :label: Tecnologias | Java - Maven - Hibernate - JPA - Oracle SQL Developer
 
 
 ## 👨‍💻 Projeto Compilado do Curso Persistência com JPA: Hibernate
